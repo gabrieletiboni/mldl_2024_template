@@ -1,6 +1,6 @@
-# Starting code for course project of MLDL 2024
+# Project 4: Reinforcement Learning (Course project MLDL 2024 - POLITO)
 
-Official assignment at [Google Doc](https://docs.google.com/document/d/1lcTs-2a9MoKaTJ5Ii4cnxo7J8t-xmsghG_18ai2qx_o/edit?usp=sharing).
+Starting code for "Project 4: Reinforcement Learning" course project of MLDL 2024 at Polytechnic of Turin. Official assignment at [Google Doc](https://docs.google.com/document/d/1lcTs-2a9MoKaTJ5Ii4cnxo7J8t-xmsghG_18ai2qx_o/edit?usp=sharing).
 
 
 ## Getting started
